@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent = new Intent(MainActivity.this, ovenlogin.class);
-                startActivity(intent);
+                Intent i = new Intent(MainActivity.this, ovenlogin.class);
+                startActivity(i);
                 finish();
             }
         }, 4000);

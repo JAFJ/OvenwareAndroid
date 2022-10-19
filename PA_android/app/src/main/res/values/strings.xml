@@ -1,4 +1,33 @@
 <resources>
+
+    De la app:
+
     <string name="app_name">PAndroid</string>
     <string name="userlabel">Nombre de usuario</string>
+    <string name="usr_lbl">Usuario</string>
+    <string name="contra_lbl">Contraseña</string>
+    <string name="contra_olvido">Olvide mi contraseña</string>
+    <string name="sign_in">Ingresar</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="email">Correo</string>
+    <string name="clien_vend">¿Quiere ser cliente o vendedor? (Puede cambiar su selección después)</string>
+    <string name="clien">Cliente (Comprador)</string>
+    <string name="vend">Vendedor</string>
+
+    <string name="payType">Método de pago</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="tarjeta">Tarjeta</string>
+    <string name="fec_nac">Fecha de nacimiento</string>
+    <string name="msj_num">(No es necesario escribir el +52)</string>
+    <string name="log_in">Iniciar sesión</string>
+    <string name="notificaciones">Notificaciones</string>
+
+    <string name="estado">Seleccione su condición académica</string>
+    <string name="click">Click</string>
+
+    De las pruebas:
+
+    <string name="lostpassword">If you lost your password please contact <a href="mailto:support@cleverfinger.com.au?Subject=Lost%20Password" target="_top">support@cleverfinger.com.au</a></string>
+
+    <string name="defaultpassword">User Guide <a href="http://www.cleverfinger.com.au/user-guide/">http://www.cleverfinger.com.au/user-guide/</a></string>
 </resources>
